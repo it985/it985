@@ -10,3 +10,7 @@
 
 ### Github Profile Trophy
 ![it985](https://github-profile-trophy.vercel.app/?username=it985)
+
+### GitHub Readme Activity Graph
+![it985's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=it985&theme=xcode)
+
