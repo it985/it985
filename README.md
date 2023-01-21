@@ -5,5 +5,6 @@
 ### GitHub Stats Card
 ![it985's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=it985)
 
-
+### Most used languages
+![it985's Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=it985&layout=compact&hide_border=true&langs_count=10)
 
