@@ -14,3 +14,7 @@
 ### GitHub Readme Activity Graph
 ![it985's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=it985&theme=xcode)
 
+### GitHub streak
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=it985" />
+</div>
