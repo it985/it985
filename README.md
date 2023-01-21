@@ -8,3 +8,5 @@
 ### Most used languages
 ![it985's Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=it985&layout=compact&hide_border=true&langs_count=10)
 
+### Github Profile Trophy
+![it985](https://github-profile-trophy.vercel.app/?username=it985)
