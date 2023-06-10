@@ -1,8 +1,10 @@
+# 此开源项目地址 https://github.com/lowlighter/metrics
+
 name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0/30 9-17 * *"
+    - cron: "0 0 * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
   
@@ -18,10 +20,9 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.TOKEN }}
           # Options
-          user: sun0225SUN
+          user: it985
           template: classic
           config_timezone: Asia/Shanghai
-          committer_message: ":rocket: Update base metrics"
           base: "header, activity, community, repositories"
           # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
@@ -37,11 +38,7 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 8
           plugin_starlists_only: Awesome
-#           # 此插件为文档中的 🎩 Notable contributions
-#           plugin_notable: yes
-#           plugin_notable_indepth: yes
-#           plugin_notable_repositories: yes
-
+          
       # 📅 Isometric commit calendar
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
@@ -82,15 +79,15 @@ jobs:
           plugin_stargazers_charts_type: chartist
           
 #       # 📌 Starred topics
-      - name: Icons
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+#       - name: Icons
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/topics.icons.svg
+#           token: NOT_NEEDED
+#           base: ""
+#           plugin_topics: yes
+#           plugin_topics_limit: 0
+#           plugin_topics_mode: icons
 
       # 🌟 Recently starred repositories
       - name: Recently starred
@@ -103,18 +100,18 @@ jobs:
           plugin_stars_limit: 3
           
 #       # 📜 Repository licenses
-      - name: Licenses with open-source ratio graphs
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/licenses.ratio.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_legal: no
-          plugin_licenses_ratio: yes
+#       - name: Licenses with open-source ratio graphs
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/licenses.ratio.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           template: repository
+#           repo: metrics
+#           plugin_licenses: yes
+#           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+#           plugin_licenses_legal: no
+#           plugin_licenses_ratio: yes
           
       # 💡 Coding habits and activity
       - name: Recent activity charts
@@ -129,16 +126,16 @@ jobs:
           config_timezone: Europe/Paris
           
 #       # 🏅 Repository contributors
-      - name: Contributors with contributions count
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/contributors.contributions.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
+#       - name: Contributors with contributions count
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/contributors.contributions.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           template: repository
+#           repo: metrics
+#           plugin_contributors: yes
+#           plugin_contributors_contributions: yes
           
       # 🎟️ Follow-up of issues and pull requests 
       - name: Indepth analysis
@@ -170,19 +167,19 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_limit: 500
-          plugin_people_size: 30
+          plugin_people_size: 36
           plugin_people_types: followers, following
        
 #       # 💕 GitHub Sponsors
-      - name: Sponsors goal
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/sponsors.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list
-          plugin_sponsors_past: yes
+#       - name: Sponsors goal
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/sponsors.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           plugin_sponsors: yes
+#           plugin_sponsors_sections: goal, list
+#           plugin_sponsors_past: yes
           
       # 📓 Featured repositories
       - name: Pinned repositories
@@ -241,51 +238,51 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
    
 #       # ♐ Random code snippet
-      - name: JavaScript or TypeScript snippet of the day
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/code.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript
-          plugin_code_load: 400
-          
-#       # 🗂️ GitHub projects
-      - name: Project from a repository
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/projects.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
-          plugin_projects_descriptions: yes
-
-#       # 🌇 GitHub Skyline
-      - name: GitHub Skyline
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/skyline.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2023
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
-     
-      # ⏱️ Google PageSpeed
-#       - name: Screenshot
+#       - name: JavaScript or TypeScript snippet of the day
 #         uses: lowlighter/metrics@latest
 #         with:
-#           filename: github-metrics/pagespeed.screenshot.svg
+#           filename: github-metrics/code.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           plugin_code: yes
+#           plugin_code_languages: javascript, typescript
+#           plugin_code_load: 400
+          
+#       # 🗂️ GitHub projects
+#       - name: Project from a repository
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/projects.svg
+#           token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+#           base: ""
+#           plugin_projects: yes
+#           plugin_projects_repositories: lowlighter/metrics/projects/1
+#           plugin_projects_descriptions: yes
+
+#       # 🌇 GitHub Skyline
+#       - name: GitHub Skyline
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/skyline.svg
 #           token: NOT_NEEDED
 #           base: ""
-#           plugin_pagespeed: yes
-#           plugin_pagespeed_detailed: yes
-#           plugin_pagespeed_screenshot: yes
-#           plugin_pagespeed_token: ${{ secrets.TOKEN }}
-#           plugin_pagespeed_url: https://blog.sunguoqi.com
+#           plugin_skyline: yes
+#           plugin_skyline_year: 2023
+#           plugin_skyline_frames: 6
+#           plugin_skyline_quality: 1
+     
+      # ⏱️ Google PageSpeed
+      - name: Screenshot
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/pagespeed.screenshot.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.TOKEN }}
+          plugin_pagespeed_url: https://blog.tryrun.top
 
       # 🐤 Latest tweets
       # 需要申请开发者账户
@@ -313,16 +310,16 @@ jobs:
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
 
-      # 🌸 Anilist watch list and reading list
-      - name: Favorites characters
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/anilist.characters.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 22
+#       # 🌸 Anilist watch list and reading list
+#       - name: Favorites characters
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/anilist.characters.svg
+#           token: NOT_NEEDED
+#           base: ""
+#           plugin_anilist: yes
+#           plugin_anilist_sections: characters
+#           plugin_anilist_limit_characters: 22
 
 #       # 🎼 Music activity and suggestions
 #       - name: Spotify - Random track from playlist
@@ -335,17 +332,17 @@ jobs:
 #           plugin_music_playlist: https://open.spotify.com/embed/playlist/3nfA87oeJw4LFVcUDjRcqi
      
 #       # ✒️ Recent posts
-      - name: Recent posts with descriptions and cover images
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/posts.full.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_limit: 2
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
+#       - name: Recent posts with descriptions and cover images
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/posts.full.svg
+#           token: NOT_NEEDED
+#           base: ""
+#           plugin_posts: yes
+#           plugin_posts_source: dev.to
+#           plugin_posts_limit: 2
+#           plugin_posts_descriptions: yes
+#           plugin_posts_covers: yes
 
 #       # 🗼 Rss feed
 #       - name: News from hackernews
