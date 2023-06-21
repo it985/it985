@@ -103,7 +103,7 @@ mindmap
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 </div>
 
-<<!-- programming tool icon 编程工具图标 -->
+<!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- svg -->
