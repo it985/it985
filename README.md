@@ -86,40 +86,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/it985/it985/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/it985/it985/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-<!-- About me 关于我 -->
-### 🤺 About Me
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/hi.gif" />
-<!-- <p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p> -->
-
-```mermaid
-mindmap
-  root((云少))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      心理
-      计算机技术
-```
-
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
 <img src="https://cdn.jsdelivr.net/gh/it985/Github-Stats-Terminal/github_stats.svg"/><br>
@@ -158,11 +124,6 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it985&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/right.png" />
 
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/cxyduck.gif" />
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 
 <table align="center">
@@ -171,46 +132,6 @@ mindmap
   </tr>
 </table>
 </div>
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/hr.gif" />
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/githubgif.gif" />
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/it985/it985/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/rocket.png"/>
 </div>
