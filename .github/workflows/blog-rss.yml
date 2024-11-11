@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Latest blog post workflow
+name: blog-rss
 
 # Controls when the workflow will run
 on:
