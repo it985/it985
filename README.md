@@ -19,6 +19,8 @@
 
 🧰 我的博文
 <!-- BLOG-POST-LIST:START -->
+- [9️⃣恢复评论](https://blog.study996.cn/archives/7a0b2a98)
+- [8️⃣暂时关闭评论](https://blog.study996.cn/archives/39537792)
 - [7️⃣李子柒归来-顶流还是顶流](https://blog.study996.cn/archives/FhvPQSc4)
 - [6️⃣ Follow 中简单两步获取大额 Power](https://blog.study996.cn/archives/2115c8e1)
 - [5️⃣孤独的根号3](https://blog.study996.cn/archives/42dd900d)
@@ -37,8 +39,6 @@
 - [4️⃣每日壁纸分享no.00035](https://blog.study996.cn/archives/7187179575238053120)
 - [3️⃣每日壁纸分享no.00034](https://blog.study996.cn/archives/7186457259600350464)
 - [2️⃣每日壁纸分享no.00033](https://blog.study996.cn/archives/7185704209071803688)
-- [1️⃣每日壁纸分享no.00032](https://blog.study996.cn/archives/7184622796822088960)
-- [🔟每日壁纸分享no.00031](https://blog.study996.cn/archives/7192138939753303311)
 <!-- BLOG-POST-LIST:END -->
   
 💪 正在学习
