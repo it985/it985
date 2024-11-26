@@ -19,7 +19,6 @@
 
 🧰 我的博文
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://blog.study996.cn/archives/4a17b156/)
 - [9️⃣恢复评论](https://blog.study996.cn/archives/7a0b2a98/)
 - [8️⃣暂时关闭评论](https://blog.study996.cn/archives/39537792/)
 - [7️⃣李子柒归来-顶流还是顶流](https://blog.study996.cn/archives/FhvPQSc4/)
@@ -39,6 +38,7 @@
 - [5️⃣每日壁纸分享no.00036](https://blog.study996.cn/archives/7188321293563940000/)
 - [4️⃣每日壁纸分享no.00035](https://blog.study996.cn/archives/7187179575238053000/)
 - [3️⃣每日壁纸分享no.00034](https://blog.study996.cn/archives/7186457259600350000/)
+- [2️⃣每日壁纸分享no.00033](https://blog.study996.cn/archives/7185704209071803000/)
 <!-- BLOG-POST-LIST:END -->
   
 💪 正在学习
