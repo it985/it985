@@ -19,6 +19,7 @@
 
 🧰 我的博文
 <!-- BLOG-POST-LIST:START -->
+- [1️⃣各大 Emby 公益服](https://blog.study996.cn/archives/6a2818c9/)
 - [1️⃣《逃出大英博物馆》- 存档](https://blog.study996.cn/archives/1dc53360/)
 - [🔟后浪-存档](https://blog.study996.cn/archives/BV1FV411d7u7/)
 - [9️⃣恢复评论](https://blog.study996.cn/archives/7a0b2a98/)
@@ -38,7 +39,6 @@
 - [7️⃣每日壁纸分享no.00038](https://blog.study996.cn/archives/7192138177363201000/)
 - [6️⃣每日壁纸分享no.00037](https://blog.study996.cn/archives/7189191263403380000/)
 - [5️⃣每日壁纸分享no.00036](https://blog.study996.cn/archives/7188321293563940000/)
-- [4️⃣每日壁纸分享no.00035](https://blog.study996.cn/archives/7187179575238053000/)
 <!-- BLOG-POST-LIST:END -->
   
 💪 正在学习
