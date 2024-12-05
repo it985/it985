@@ -19,6 +19,8 @@
 
 🧰 我的博文
 <!-- BLOG-POST-LIST:START -->
+- [3️⃣简洁的在线生成封面 Mini-Cover](https://blog.study996.cn/archives/c7746d97/)
+- [2️⃣hexo防止被镜像-省流版](https://blog.study996.cn/archives/baffd918/)
 - [1️⃣各大 Emby 公益服](https://blog.study996.cn/archives/6a2818c9/)
 - [1️⃣《逃出大英博物馆》- 存档](https://blog.study996.cn/archives/1dc53360/)
 - [🔟后浪-存档](https://blog.study996.cn/archives/BV1FV411d7u7/)
@@ -37,8 +39,6 @@
 - [9️⃣每日壁纸分享no.00040](https://blog.study996.cn/archives/7195724684690820000/)
 - [8️⃣每日壁纸分享no.00039](https://blog.study996.cn/archives/7194226962120920000/)
 - [7️⃣每日壁纸分享no.00038](https://blog.study996.cn/archives/7192138177363201000/)
-- [6️⃣每日壁纸分享no.00037](https://blog.study996.cn/archives/7189191263403380000/)
-- [5️⃣每日壁纸分享no.00036](https://blog.study996.cn/archives/7188321293563940000/)
 <!-- BLOG-POST-LIST:END -->
   
 💪 正在学习
