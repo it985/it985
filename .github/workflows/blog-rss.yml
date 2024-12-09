@@ -35,3 +35,8 @@ jobs:
         with:
           feed_list: "https://blog.study996.cn/rss.xml" #这里应该替换成自己的rss地址
           max_post_count: 20 # 顾名思义，最大文章数。
+      - name: Delete Workflow Runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 30
+          keep_minimum_runs: 6
