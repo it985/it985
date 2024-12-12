@@ -19,6 +19,7 @@
 
 🧰 我的博文
 <!-- BLOG-POST-LIST:START -->
+- [6️⃣你的工作有多好？不对比不知道！](https://blog.study996.cn/archives/cbccbd9a/)
 - [5️⃣启动公众号引流](https://blog.study996.cn/archives/980d931/)
 - [4️⃣免费下载无损音乐的网站](https://blog.study996.cn/archives/9f1faa5d/)
 - [3️⃣简洁的在线生成封面 Mini-Cover](https://blog.study996.cn/archives/c7746d97/)
@@ -38,7 +39,6 @@
 - [🔟 我的.gitconfig](https://blog.study996.cn/archives/ddc5f1d7/)
 - [1️⃣每日壁纸分享no.00042](https://blog.study996.cn/archives/7207396103463914000/)
 - [🔟每日壁纸分享no.00041](https://blog.study996.cn/archives/7202841567982308660/)
-- [9️⃣每日壁纸分享no.00040](https://blog.study996.cn/archives/7195724684690820000/)
 <!-- BLOG-POST-LIST:END -->
   
 💪 正在学习
