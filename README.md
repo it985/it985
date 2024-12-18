@@ -19,6 +19,8 @@
 
 🧰 我的博文
 <!-- BLOG-POST-LIST:START -->
+- [9️⃣八段锦](https://blog.study996.cn/archives/BV1gT4y1m7ec/)
+- [8️⃣五禽戏](https://blog.study996.cn/archives/BV1J3411s7Ph/)
 - [7️⃣传递真相-南京大屠杀纪念日](https://blog.study996.cn/archives/BV1fR4y1s7ij/)
 - [6️⃣你的工作有多好？不对比不知道！](https://blog.study996.cn/archives/cbccbd9a/)
 - [5️⃣启动公众号引流](https://blog.study996.cn/archives/980d931/)
@@ -37,8 +39,6 @@
 - [3️⃣ 云天明的三个故事](https://blog.study996.cn/archives/0c62374a/)
 - [2️⃣ 认证Follow](https://blog.study996.cn/archives/caad38e1/)
 - [1️⃣RTX4090 &amp; 4090D停产](https://blog.study996.cn/archives/3c656f5e/)
-- [🔟 我的.gitconfig](https://blog.study996.cn/archives/ddc5f1d7/)
-- [1️⃣每日壁纸分享no.00042](https://blog.study996.cn/archives/7207396103463914000/)
 <!-- BLOG-POST-LIST:END -->
   
 💪 正在学习
