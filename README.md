@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [9️⃣八段锦](https://blog.study996.cn/archives/BV1gT4y1m7ec/)
 - [8️⃣五禽戏](https://blog.study996.cn/archives/BV1J3411s7Ph/)
-- [7️⃣传递真相-南京大屠杀纪念日](https://blog.study996.cn/archives/BV1fR4y1s7ij/)
+- [7️⃣传递真相 - 南京大屠杀纪念日](https://blog.study996.cn/archives/BV1fR4y1s7ij/)
 - [6️⃣你的工作有多好？不对比不知道！](https://blog.study996.cn/archives/cbccbd9a/)
 - [5️⃣启动公众号引流](https://blog.study996.cn/archives/980d931/)
 <!-- BLOG-POST-LIST:END -->
