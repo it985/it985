@@ -71,6 +71,8 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/it985/it985/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+![it985's GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=it985&theme=monokai)![it985's Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=it985&theme=vue&utcOffset=8)
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/rocket.png"/>
 </div>
