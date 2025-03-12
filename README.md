@@ -19,11 +19,11 @@
 
 🧰 我的博文
 <!-- BLOG-POST-LIST:START -->
+- [2️⃣停止所有服务预告](https://blog.study996.cn/archives/2abc4a26/)
 - [1️⃣啃老时代 - 存档](https://blog.study996.cn/archives/kenlaoshidai/)
 - [0️⃣灯笼 - 喜迎春节](https://blog.study996.cn/archives/e60f9ca4/)
 - [🔟自用随机 API](https://blog.study996.cn/archives/3b46ff5/)
 - [9️⃣八段锦](https://blog.study996.cn/archives/BV1gT4y1m7ec/)
-- [8️⃣五禽戏](https://blog.study996.cn/archives/BV1J3411s7Ph/)
 <!-- BLOG-POST-LIST:END -->
   
 💪 正在学习
